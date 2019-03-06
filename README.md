@@ -1,4 +1,6 @@
 # HelloWorld
-### Student ID
-### Student Name
-### Email address
+### 201860118
+### chol lee
+### ferrous@kaist.ac.kr
+
+
